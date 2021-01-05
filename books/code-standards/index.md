@@ -15,10 +15,10 @@
 
 ## Version Control
 
-<!-- <p align="right"> -->
-  <img align="right" src="../../images/pirates_code.jpg" width="75" />
-  <h2 align="right" style="margin-top: -8px">9</h2>
-<!-- </p> -->
+<p align="right" width="75">
+  <img src="../../images/pirates_code.jpg" width="75" />
+  <h2 style="text-align: center; margin-top: -8px">9</h2>
+</p>
 
 ## [Github](../devops#github)
 Github is the preferred version control service whenever possible.
