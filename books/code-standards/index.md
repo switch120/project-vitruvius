@@ -15,10 +15,10 @@
 
 ## Version Control
 
-<div width="75">
+<div align="center">
   <img src="../../images/pirates_code.jpg" width="75" />
   <br />
-  <p style="margin-left: 10px;">9</strong>
+  <strong>9</strong>
 </div>
 
 ## [Github](../devops#github)
