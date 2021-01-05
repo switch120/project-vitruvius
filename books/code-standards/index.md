@@ -15,7 +15,7 @@
 
 ## Version Control
 
-<section style="float: right; clear: both;">
+<section align="right">
   <img src="../../images/pirates_code.jpg" style="width: 75px" />
   <h2 style="text-align: center; margin-top: -8px">9</h2>
 </section>

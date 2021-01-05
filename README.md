@@ -1,5 +1,5 @@
 # Project Vitruvius
-> [Marcus Vitruvius Pollio](https://www.ancient.eu/Vitruvius/) (c. 90 - c. 20 BCE), better known simply as Vitruvius, was a Roman military engineer and architect who wrote _De Architectura_ (On Architecture], a treatise which combines the history of ancient architecture and engineering with the author’s personal experience and advice on the subject. As no similar work has survived complete from antiquity, the book has become an invaluable source, not only on  [Greek](https://www.ancient.eu/greek/)  and  [Roman architecture](https://www.ancient.eu/Roman_Architecture/) , but also on a wide range of other topics such as  [philosophy](https://www.ancient.eu/philosophy/) , mathematics, and  [medicine](https://www.ancient.eu/medicine/) .
+> [Marcus Vitruvius Pollio](https://www.ancient.eu/Vitruvius/) (c. 90 - c. 20 BCE), better known simply as Vitruvius, was a Roman military engineer and architect who wrote _De Architectura_ (On Architecture], a treatise which combines the history of ancient architecture and engineering with the author’s personal experience and advice on the subject. As no similar work has survived complete from antiquity, the book has become an invaluable source, not only on  [Greek](https://www.ancient.eu/greek/)  and  [Roman architecture](https://www.ancient.eu/Roman_Architecture/) , but also on a wide range of other topics such as  [philosophy](https://www.ancient.eu/philosophy/) , mathematics, and  [medicine](https://www.ancient.eu/medicine/).
 
 ## Purpose of this initiative
 Collective experience is an invaluable albeit highly perishable resource, and tribal knowledge is hard to come by relying on a number of sociological factors. The idea behind this initiative is to catalog experience-based knowledge into a digestible compendium for all team members. More importantly this idea can exist only in the safe space of collaboration, so the participation and thoughtful conflict that arises from discussing such controversial items is tantamount to its success. If you’re reading this, you’re invited to participate in honing the individual pieces of this document for the rest of the team; just be prepared to [constructively] defend your contributions, as well as participate in sanity checking others!
@@ -29,6 +29,8 @@ Inspired by _De Architecture_, this document is broken into Books that encompass
 </section>
 <div style="clear:left;"></div>
 <hr />
+
+> NOTE - Table of Contents a WIP below. Bullets are intended to capture items that should go into those books but haven't yet been captured
 
 # Table of Contents 
 * [Book 1: Architecture](./books/architecture)
