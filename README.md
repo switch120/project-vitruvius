@@ -18,7 +18,7 @@ Inspired by _De Architecture_, this document is broken into Books that encompass
 
 ### The Pirates Code (working title)
 <section>
-  <img src="images/pirates_code.jpg" style="width: 100px; float: left; margin-right: 20px;" />
+  <img src="images/pirates_code.jpg" width="250" />
   <p>
     Be on the lookout for this marker throughout the books in this compendium. This indicates a time where a certain degree of adherence may either be required or otherwise unnecessary.
   </p>
