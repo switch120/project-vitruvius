@@ -17,6 +17,7 @@
 
 <p width="75">
   <img src="../../images/pirates_code.jpg" width="75" />
+  <br />
   <strong>9</strong>
 </p>
 
