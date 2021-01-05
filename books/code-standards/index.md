@@ -16,7 +16,7 @@
 ## Version Control
 
 <div align="center">
-  <img src="../../images/pirates_code.jpg" width="75" />
+  <img src="../../images/pirates_code.jpg" width="100" />
   <br />
   <strong>9</strong>
 </div>
@@ -59,10 +59,11 @@ Github is the preferred version control service whenever possible.
 
 ## Linting
 
-<section style="float: right; clear: both;">
-  <img src="../../images/pirates_code.jpg" style="width: 75px" />
-  <h2 style="text-align: center; margin-top: -8px">7</h2>
-</section>
+<div align="center">
+  <img src="../../images/pirates_code.jpg" width="100" />
+  <br />
+  <strong>7</strong>
+</div>
 
 Whenever possible all projects should be properly linted. Each language / framework is going to present different challenges for achieving this, but at the very least [Green Field Projects](../architecture#green-field-projects) should institute the linter of choice for the situation. Below are some examples of baseline Linter configurations.
 
@@ -76,10 +77,11 @@ Sample `.eslintrc` file: [.eslintrc](./eslintrc.md)
 
 ## Language Specific Standards
 
-<section style="float: right; clear: both;">
-  <img src="../../images/pirates_code.jpg" style="width: 75px" />
-  <h2 style="text-align: center; margin-top: -8px">9</h2>
-</section>
+<div align="center">
+  <img src="../../images/pirates_code.jpg" width="100" />
+  <br />
+  <strong>9</strong>
+</div>
 
 ### C-Syntax
 * Preferred editor: Visual Studio Code
