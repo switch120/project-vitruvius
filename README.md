@@ -30,30 +30,30 @@ Inspired by _De Architecture_, this document is broken into Books that encompass
 <div style="clear:left;"></div>
 <hr />
 
-> NOTE - Table of Contents a WIP below. Bullets are intended to capture items that should go into those books but haven't yet been captured
+> NOTE - Table of Contents a WIP below. Bullets are intended to mark items that should go into those books but haven't yet been captured
 
 # Table of Contents 
-* [Book 1: Architecture](./books/architecture)
+* [Book 1: Architecture](./books/architecture/index)
   * Project DevOps Preferences
   * Green Field Preferences
   * Cloud Platform Preferences
-* [Book 2: Cloud Platforms](./books/cloud-platforms)
+* [Book 2: Cloud Platforms](./books/cloud-platforms/index)
   * AWS
   * GoogleCloud
   * FireBase
-* [Book 3: Code Standards](./books/code-standards)
-* [Book 4: Documentation Standards](./books/documentation-standards)
+* [Book 3: Code Standards](./books/code-standards/index)
+* [Book 4: Documentation Standards](./books/documentation-standards/index)
   * Swagger
-* [Book 5: Design Standards](./books/design-standards)
-* [Book 6: Adaptable Agile](./books/agile)
-* [Book 7: DevOps](./books/devops)
+* [Book 5: Design Standards](./books/design-standards/index)
+* [Book 6: Adaptable Agile](./books/agile/index)
+* [Book 7: DevOps](./books/devops/index)
   * Jenkins
   * Vagrant Scaffold
-  * Github - https://nvie.com/posts/a-successful-git-branching-model/ (from Ben)
+  * Github
   * 1Password
   * Bastion Hosts
   * Trello
-* [Book 8: Antipatterns](./books/antipatterns)
+* [Book 8: Antipatterns](./books/antipatterns/index)
 * Book 9: TBD
 * Book 10: TBD
 
