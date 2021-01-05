@@ -17,7 +17,7 @@
 
 <p align="right" width="75">
   <img src="../../images/pirates_code.jpg" width="75" />
-  <h2 style="text-align: center; margin-top: -8px">9</h2>
+  9
 </p>
 
 ## [Github](../devops#github)
