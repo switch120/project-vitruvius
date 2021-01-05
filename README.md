@@ -33,27 +33,27 @@ Inspired by _De Architecture_, this document is broken into Books that encompass
 > NOTE - Table of Contents a WIP below. Bullets are intended to mark items that should go into those books but haven't yet been captured
 
 # Table of Contents 
-* [Book 1: Architecture](./books/architecture/index)
+* [Book 1: Architecture](./books/architecture/index.md)
   * Project DevOps Preferences
   * Green Field Preferences
   * Cloud Platform Preferences
-* [Book 2: Cloud Platforms](./books/cloud-platforms/index)
+* [Book 2: Cloud Platforms](./books/cloud-platforms/index.md)
   * AWS
   * GoogleCloud
   * FireBase
-* [Book 3: Code Standards](./books/code-standards/index)
-* [Book 4: Documentation Standards](./books/documentation-standards/index)
+* [Book 3: Code Standards](./books/code-standards/index.md)
+* [Book 4: Documentation Standards](./books/documentation-standards/index.md)
   * Swagger
-* [Book 5: Design Standards](./books/design-standards/index)
-* [Book 6: Adaptable Agile](./books/agile/index)
-* [Book 7: DevOps](./books/devops/index)
+* [Book 5: Design Standards](./books/design-standards/index.md)
+* [Book 6: Adaptable Agile](./books/agile/index.md)
+* [Book 7: DevOps](./books/devops/index.md)
   * Jenkins
   * Vagrant Scaffold
   * Github
   * 1Password
   * Bastion Hosts
   * Trello
-* [Book 8: Antipatterns](./books/antipatterns/index)
+* [Book 8: Antipatterns](./books/antipatterns/index.md)
 * Book 9: TBD
 * Book 10: TBD
 
