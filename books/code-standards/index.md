@@ -17,7 +17,7 @@
 
 <p width="75">
   <img src="../../images/pirates_code.jpg" width="75" />
-  <h2>9</h2>
+  <strong>9</strong>
 </p>
 
 ## [Github](../devops#github)
