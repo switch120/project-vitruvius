@@ -15,9 +15,9 @@
 
 ## Version Control
 
-<p align="right" width="75">
+<p width="75">
   <img src="../../images/pirates_code.jpg" width="75" />
-  9
+  <h2>9</h2>
 </p>
 
 ## [Github](../devops#github)
