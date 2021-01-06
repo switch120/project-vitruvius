@@ -52,6 +52,7 @@ Regardless of platform there are some basics that should be considered for all g
 * [SCSS for styles](../code-standards/index.md#css)
 
 ### Microsoft / .NET
+> TBD
 
 ### OSS
 <div align="center">
@@ -59,6 +60,7 @@ Regardless of platform there are some basics that should be considered for all g
   <br />
   <strong>8</strong>
 </div>
+
 * Frontend
   * Angular / Typescript
   * Husky
