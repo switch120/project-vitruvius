@@ -3,7 +3,7 @@
 ### Table of Contents
 * [Project DevOps Preferences](#project-devops-preferences)
   * [Centralized Deployment](#centralized-deployment)
-  * [Linting] (#linting)
+  * [Linting](#linting)
 * [Green Field Project Preferences](#greenfield)
   * [Platform Agnostic](./platform-agnostic)
   * Microsoft / .NET
