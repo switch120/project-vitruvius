@@ -1,5 +1,5 @@
 # Project Vitruvius
-<img src="images/vitruvius.jpg" width="150" align="right" />
+<img src="images/vitruvius-portrait.jpg" width="150" align="right" />
 
 > [Marcus Vitruvius Pollio](https://www.ancient.eu/Vitruvius/) (c. 90 - c. 20 BCE), better known simply as Vitruvius, was a Roman military engineer and architect who wrote _De Architectura_ (On Architecture], a treatise which combines the history of ancient architecture and engineering with the author’s personal experience and advice on the subject. As no similar work has survived complete from antiquity, the book has become an invaluable source, not only on  [Greek](https://www.ancient.eu/greek/)  and  [Roman architecture](https://www.ancient.eu/Roman_Architecture/), but also on a wide range of other topics such as [philosophy](https://www.ancient.eu/philosophy/), mathematics, and [medicine](https://www.ancient.eu/medicine/).
 
