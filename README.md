@@ -2,7 +2,7 @@
 > [Marcus Vitruvius Pollio](https://www.ancient.eu/Vitruvius/) (c. 90 - c. 20 BCE), better known simply as Vitruvius, was a Roman military engineer and architect who wrote _De Architectura_ (On Architecture], a treatise which combines the history of ancient architecture and engineering with the author’s personal experience and advice on the subject. As no similar work has survived complete from antiquity, the book has become an invaluable source, not only on  [Greek](https://www.ancient.eu/greek/)  and  [Roman architecture](https://www.ancient.eu/Roman_Architecture/), but also on a wide range of other topics such as [philosophy](https://www.ancient.eu/philosophy/), mathematics, and [medicine](https://www.ancient.eu/medicine/).
 
 ## Purpose of this initiative
-Collective experience is an invaluable albeit highly perishable resource, and tribal knowledge is hard to come by relying on a number of sociological factors. The idea behind this initiative is to catalog experience-based knowledge into a digestible compendium for all team members. More importantly this idea can exist only in the safe space of collaboration, so the participation and thoughtful conflict that arises from discussing such controversial items is tantamount to its success. If you’re reading this, you’re invited to participate in honing the individual pieces of this document for the rest of the team; just be prepared to [constructively] defend your contributions, as well as participate in sanity checking others!
+Collective experience is an invaluable albeit highly perishable resource, and tribal knowledge is hard to come by relying on a number of sociological factors like staff retention. The idea behind this initiative is to catalog experience-based knowledge into a digestible compendium for all team members; new and veteran. More importantly this idea can exist only in the safe space of collaboration, so the participation and thoughtful conflict that arises from discussing such controversial items is tantamount to its success. If you’re reading this, you’re invited to participate in honing the individual pieces of this document for the rest of the team; just be prepared to [constructively] defend your contributions, as well as participate in sanity checking others!
 
 > *FOR VITRUVIUS, BUILDINGS SHOULD ALWAYS BE THREE THINGS: BEAUTIFUL, STABLE, AND USEFUL.*
 
@@ -41,20 +41,32 @@ Inspired by _De Architecture_, this document is broken into Books that encompass
   * AWS
   * GoogleCloud
   * FireBase
+  * Shopify
+  * Github Pages
+  * Heroku
+  * FourSquare
 * [Book 3: Code Standards](./books/code-standards/index.md)
 * [Book 4: Documentation Standards](./books/documentation-standards/index.md)
   * Swagger
 * [Book 5: Design Standards](./books/design-standards/index.md)
 * [Book 6: Adaptable Agile](./books/agile/index.md)
+  * Jira
 * [Book 7: DevOps](./books/devops/index.md)
   * Jenkins
   * Vagrant Scaffold
   * Github
   * 1Password
   * Bastion Hosts
-  * Trello
+  * Jira
 * [Book 8: Antipatterns](./books/antipatterns/index.md)
-* Book 9: TBD
+* [Book 9: Web API Glossary](./books/api-glossary/index.md)
+  * Stripe
+  * Paypal
+  * Google Maps
+  * Microsoft Graph
+  * Facebook / Instagram
+  * SendGrid
+  * MailGun
 * Book 10: TBD
 
 ### [Glossary of Terms](./glossary.md)
